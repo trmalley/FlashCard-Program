@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection>
+    <flashCardSet>
+        <title>Test Title</title>
+        <subject>Test Subject</subject>
+        <catergory>Test Category</catergory>
+        <path>test.xml</path>
+    </flashCardSet>
+
+    <flashCardSet>
+        <title>Test Title2</title>
+        <subject>Test Subject2</subject>
+        <catergory>Test Category2</catergory>
+        <path>test.xml</path>
+    </flashCardSet>
+
+    <flashCardSet>
+        <title>Test Title3</title>
+        <subject>Test Subject3</subject>
+        <catergory>Test Category3</catergory>
+        <path>test.xml</path>
+    </flashCardSet>
+
+    <flashCardSet>
+        <title>Test Title4</title>
+        <subject>Test Subject4</subject>
+        <catergory>Test Category4</catergory>
+        <path>test.xml</path>
+    </flashCardSet>
+</collection>

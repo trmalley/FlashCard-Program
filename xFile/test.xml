@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flashcardset>
+
+    <!--One or more Cards-->
+    <card>
+        <title> flash card 1<!-- Flash Card 1--></title>
+        <type>question<!--definition or question--></type>
+        <question>What is 5+5?</question>
+        <anwser>10</anwser>
+    </card>
+
+    <card>
+        <title> flash card 2<!-- Flash Card 1--></title>
+        <type>question<!--definition or question--></type>
+        <question>How much wood could a wood chuck chuck if a wood chuck could chuck wood</question>
+        <anwser>100</anwser>
+    </card>
+
+</flashcardset>
+
+<!--
+open all xml files and pull the title subject catergory
+User pics the flashcardset by title but can sort by subject/category
+Then user can pic "Learn" with options such as show anwsers or show questions
+Can have timer, can shuffle cards.
+
+(can mark cards as "learned" to not have them show up during study session)
+
+
+
+
+Or user can edit flashcards to update errors or info
+
+To create new, they would specify title subject and category then add individual cards with relevant info
+
+
+
+
+Going to need flashcardcollection class, flashcard class, parser to get flashcards
+GUI and relevant GUI things
+-->
